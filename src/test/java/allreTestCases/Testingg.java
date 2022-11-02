@@ -31,15 +31,15 @@ public class Testingg {
 		 */
 	}
 
-	@Step("TestCase case1 will run")
-	@Description("This is description for case1")
-	@Severity(SeverityLevel.BLOCKER)
-
-	@Test
-	public void case1() {
-
-		Assert.assertEquals(true, false);
-	}
+//	@Step("TestCase case1 will run")
+//	@Description("This is description for case1")
+//	@Severity(SeverityLevel.BLOCKER)
+//
+//	@Test
+//	public void case1() {
+//
+//		Assert.assertEquals(true, false);
+//	}
 
 	@Step("TestCase case2 will run")
 	@Description("This is description for case2")
