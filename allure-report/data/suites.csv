@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Wed Nov 02 15:14:53 IST 2022","Wed Nov 02 15:14:53 IST 2022","1","Suite","Test","allreTestCases.Testingg","allreTestCases.Testingg","case2","case2","This is description for case2"
-"passed","Wed Nov 02 15:14:53 IST 2022","Wed Nov 02 15:14:53 IST 2022","1","Suite","Test","allreTestCases.Testingg","allreTestCases.Testingg","case4","case4","This is description for case4"
-"failed","Wed Nov 02 15:14:53 IST 2022","Wed Nov 02 15:14:53 IST 2022","21","Suite","Test","allreTestCases.Testingg","allreTestCases.Testingg","case1","case1","This is description for case1"
-"passed","Wed Nov 02 15:14:53 IST 2022","Wed Nov 02 15:14:53 IST 2022","1","Suite","Test","allreTestCases.Testingg","allreTestCases.Testingg","case3","case3","This is description for case3"
